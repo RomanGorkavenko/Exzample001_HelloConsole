@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roman\\Desktop\\Обучение\\C#\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
+    "C:\\Users\\Roman\\Desktop\\C#\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roman\\Desktop\\Обучение\\C#\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {
+    "C:\\Users\\Roman\\Desktop\\C#\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roman\\Desktop\\Обучение\\C#\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "projectUniqueName": "C:\\Users\\Roman\\Desktop\\C#\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "projectName": "Example002_HelloUser",
-        "projectPath": "C:\\Users\\Roman\\Desktop\\Обучение\\C#\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
+        "projectPath": "C:\\Users\\Roman\\Desktop\\C#\\Examples\\Example002_HelloUser\\Example002_HelloUser.csproj",
         "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roman\\Desktop\\Обучение\\C#\\Examples\\Example002_HelloUser\\obj\\",
+        "outputPath": "C:\\Users\\Roman\\Desktop\\C#\\Examples\\Example002_HelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
