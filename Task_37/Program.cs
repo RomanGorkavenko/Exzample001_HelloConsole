@@ -37,7 +37,7 @@ void PrintArray(int[] arr)
 void Search(int[] a)
 {
     int n = a.Length;
-    for (int i = 0; i <= n / 2; i++)
+    for (int i = 0; i < n / 2; i++)
     {
         multiply[i] = a[i] * a[n - 1 - i];
     }
